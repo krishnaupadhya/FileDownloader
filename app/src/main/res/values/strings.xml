@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DownloadFile</string>
+    <string name="cancel">cancel</string>
+    <string name="ok">OK</string>
+    <string name="alert_icon">alert</string>
+    <string name="write_sdcard_permission_alert_msg">Storage permission is disabled. Enable it from \&quot;Settings\&quot; -&gt; \&quot;Permissions\&quot; to continue.</string>
+    <string name="settings">Settings</string>
+</resources>
